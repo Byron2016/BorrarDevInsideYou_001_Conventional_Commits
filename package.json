@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Byron2016/DevInsideYou_001_Conventional_Commits/issues"
   },
-  "homepage": "https://github.com/Byron2016/DevInsideYou_001_Conventional_Commits#readme"
+  "homepage": "https://github.com/Byron2016/DevInsideYou_001_Conventional_Commits#readme",
+  "devDependencies": {
+    "husky": "^7.0.4"
+  }
 }
